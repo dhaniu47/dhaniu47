@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Dhaneswari Behera 👋
 
-<!--
-**dhaniu47/dhaniu47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA POST-Graduate | Full Stack Python Developer | Open to Work
 
-Here are some ideas to get you started:
+I am a passionate Full Stack Developer with hands-on experience in building responsive websites and web applications using Python, Flask, HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+- Programming: Python, JavaScript
+- Frontend: HTML, CSS
+- Backend: Flask
+- Database: SQLite (Learning MySQL)
+- Tools: Git, GitHub, VS Code
+- Deployment: GitHub Pages, Vercel
+
+---
+
+##  Featured Projects
+
+ Blog Website  
+https://dhaniu47.github.io/BLOGWEBSITEPROJECT/
+
+ JWT Demo Project  
+https://github.com/dhaniu47/jwt-demo
+
+Resume Website  
+https://github.com/dhaniu47/html-resume-project
+
+---
+
+##  Currently Learning
+
+- REST API Development
+- Full Stack Python with Flask
+- Database Integration
+
+---
+
+## Contact Me
+
+GitHub: https://github.com/dhaniu47  
+LinkedIn: https://www.linkedin.com/in/dhaneswari-behera/
+
+---
+
+ Open to Full Stack Python Developer, Software Developer, and Web Developer roles.
